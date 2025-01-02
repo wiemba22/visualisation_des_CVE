@@ -1,3 +1,5 @@
+!!!! THE PYTHON SCRIPT AND A SCREENSHOT FROM KIBANA ARE IN THE MASTER BRANCH !!!!
+
 CVE Data Integration and Visualization with ELK Stack
 This project demonstrates the process of importing CVE (Common Vulnerabilities and Exposures) data from the National Vulnerability Database (NVD), storing it in a PostgreSQL database, and visualizing the data using the ELK (Elasticsearch, Logstash, Kibana) stack.
 
